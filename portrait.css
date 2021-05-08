@@ -36,8 +36,10 @@ img {
 
 .page__frontispiece {
     width: 100%;
-    padding: 4rem 2rem;
     height: 100vh;
+    display:block;
+    clear:both;
+    padding: 4rem 2rem;
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
